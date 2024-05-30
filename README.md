@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... web dev, Blockchain and Web 3.0
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Email:peshaenock91@gmail.com
-- 😄 Pronouns: ...js C# CSS HTML NodeJs
+- 😄 Pronouns: ...js, C#, CSS, HTML and Boostrap
 - ⚡ Fun fact: ...Coding will soon be as important as reading
 
 <!---
